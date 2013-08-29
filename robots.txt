@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://octothemes.github.io/menu-plugin-demo/sitemap.xml 
